@@ -1,0 +1,12 @@
+{
+  "Summary": "[Issue Type] in [Feature/Functionality] under [Condition/Criteria]",
+  "Description": "A detailed description of the issue encountered, including [brief overview of the problem, context, and any relevant information].",
+  "Preconditions": "[Specify any necessary conditions that must be met before reproducing the bug, such as system configurations, data setups, or prerequisite actions.]",
+  "Steps to Reproduce": [
+    "[Clearly outline the sequence of actions or operations to reproduce the bug. Ensure clarity, precision, and conciseness in each step description.]",
+    "[Next step...]",
+    "[Continue with subsequent steps as needed...]"
+  ],
+  "Actual Results": "[Describe the actual outcome or behavior observed when the steps to reproduce were followed.]",
+  "Expected Results": "[Define the expected outcome or behavior that should have occurred when the steps to reproduce were followed.]"
+}
