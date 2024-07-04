@@ -5,7 +5,18 @@
     "1st Ave", "2nd Ave", "3rd Ave", "4th Ave", "5th Ave", "6th Ave", "7th Ave", "8th Ave",
     "Washington St", "Lincoln St", "Jefferson St", "Adams St", "Jackson St", "Madison St",
     "Monroe St", "Franklin St", "Grant St", "Roosevelt St", "Wilson St", "Kennedy St",
-    "Carter St", "Reagan St", "Clinton St", "Bush St", "Obama St", "Trump St"
+    "Carter St", "Reagan St", "Clinton St", "Bush St", "Obama St", "Trump St", "King St",
+    "Queen St", "Prince St", "Princess St", "Duke St", "Duchess St", "Emperor St",
+    "Empress St", "Knight St", "Bishop St", "Castle St", "Crown St", "Court St", "Monarch St",
+    "Baron St", "Marquis St", "Count St", "Viscount St", "Squire St", "Noble St", "Royal St",
+    "Grand St", "Noble St", "Regal St", "Pavilion St", "Chateau St", "Manor St", "Palace St",
+    "Villa St", "Hall St", "Garden St", "Terrace St", "Boulevard St", "Square St", "Circle St",
+    "Avenue St", "Drive St", "Lane St", "Way St", "Road St", "Crescent St", "Alley St",
+    "Court St", "Plaza St", "Trail St", "Run St", "Hollow St", "Place St", "Walk St", "Path St",
+    "Landing St", "Parkway St", "Vista St", "Grove St", "Bay St", "Creek St", "Island St",
+    "Harbor St", "Coast St", "Beach St", "Shore St", "Bend St", "View St", "Crossing St",
+    "Dale St", "Ford St", "Spring St", "Lake St", "River St", "Stream St", "Meadow St",
+    "Field St", "Park St", "Wood St", "Forest St", "Hill St", "Mountain St", "Ridge St"
   ],
   "cities": [
     "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio",
@@ -15,18 +26,42 @@
     "Memphis", "Louisville", "Baltimore", "Milwaukee", "Albuquerque", "Tucson", "Fresno",
     "Mesa", "Sacramento", "Atlanta", "Kansas City", "Colorado Springs", "Miami",
     "Raleigh", "Omaha", "Long Beach", "Virginia Beach", "Oakland", "Minneapolis",
-    "Tulsa", "Arlington", "New Orleans", "Wichita", "Cleveland"
+    "Tulsa", "Arlington", "New Orleans", "Wichita", "Cleveland", "Birmingham", "Anchorage",
+    "Tampa", "Aurora", "Anaheim", "Honolulu", "Santa Ana", "Riverside", "Corpus Christi",
+    "Lexington", "Stockton", "St. Paul", "Henderson", "St. Louis", "Cincinnati", "Pittsburgh",
+    "Greensboro", "Lincoln", "Buffalo", "Fort Wayne", "Chandler", "Chula Vista", "Toledo",
+    "Madison", "Gilbert", "Reno", "Hialeah", "Garland", "Irvine", "Chesapeake", "Irving",
+    "Scottsdale", "North Las Vegas", "Fremont", "Boise", "Richmond", "San Bernardino",
+    "Baton Rouge", "Spokane", "Des Moines", "Modesto", "Fayetteville", "Tacoma", "Oxnard",
+    "Fontana", "Columbus", "Montgomery", "Moreno Valley", "Shreveport", "Aurora",
+    "Yonkers", "Akron", "Huntington Beach", "Little Rock", "Augusta", "Amarillo", "Mobile",
+    "Grand Rapids", "Salt Lake City", "Tallahassee", "Huntsville", "Grand Prairie", "Knoxville",
+    "Worcester", "Newport News", "Brownsville", "Overland Park", "Santa Clarita", "Providence",
+    "Garden Grove", "Chattanooga", "Oceanside", "Jackson", "Fort Lauderdale", "Santa Rosa",
+    "Rancho Cucamonga", "Port St. Lucie", "Tempe", "Ontario", "Vancouver", "Cape Coral",
+    "Sioux Falls", "Springfield", "Peoria", "Pembroke Pines", "Elk Grove", "Salem",
+    "Lancaster", "Corona", "Eugene", "Palmdale", "Salinas", "Springfield", "Pasadena", "Fort Collins"
   ],
   "states": [
     "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN",
     "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV",
     "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN",
     "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"
-],
+  ],
   "zips": [
     "12345", "23456", "34567", "45678", "56789", "67890", "78901", "89012", "90123",
     "01234", "56789", "98765", "87654", "76543", "65432", "54321", "43210", "32109",
     "60601", "10001", "89101", "75201", "90210", "30301", "94101", "20001", "98101",
-    "85001", "66101", "60101"
+    "85001", "66101", "60101", "71234", "82345", "93456", "14567", "25678", "36789",
+    "47890", "58901", "69012", "80123", "91234", "02345", "13456", "24567", "35678",
+    "46789", "57890", "68901", "79012", "90123", "01234", "12356", "23467", "34578",
+    "45689", "56790", "67891", "78902", "89013", "90124", "01235", "12357", "23468",
+    "34579", "45690", "56791", "67892", "78903", "89014", "90125", "01236", "12358",
+    "23469", "34580", "45691", "56792", "67893", "78904", "89015", "90126", "01237",
+    "12359", "23470", "34581", "45692", "56793", "67894", "78905", "89016", "90127",
+    "01238", "12360", "23471", "34582", "45693", "56794", "67895", "78906", "89017",
+    "90128", "01239", "12361", "23472", "34583", "45694", "56795", "67896", "78907",
+    "89018", "90129", "01240", "12362", "23473", "34584", "45695", "56796", "67897",
+    "78908", "89019", "90130"
   ]
 }
